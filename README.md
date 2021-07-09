@@ -1,1 +1,1 @@
-# guess-my-number
+# Guess the Number
