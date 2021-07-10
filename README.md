@@ -1,4 +1,4 @@
-# Guess the Number
+# Guess My Number
 
 ## How to play
 
